@@ -1,14 +1,14 @@
 {
-  "run_id": "20261011T180330Z",
-  "started_utc": "2026-10-11T18:03:30.286636+00:00",
-  "finished_utc": "2026-10-11T18:03:33.486599+00:00",
+  "run_id": "20261012T214322Z",
+  "started_utc": "2026-10-12T21:43:22.743261+00:00",
+  "finished_utc": "2026-10-12T21:43:24.178839+00:00",
   "ok": true,
   "failed_steps": [],
   "steps": [
     {
       "step": "reverify",
       "rc": 0,
-      "note": "  [ieg-sred] skip — checked 4d ago, cadence 7d |   [mitacs-accelerate] skip — checked 4d ago, cadence 7d |   [enmax-amplifier] skip — checked 11d ago, cadence 30d | RESULT: flips=0 concerns=0 primary_verified=0 skipped=13 events=0"
+      "note": "  [ieg-sred] skip — checked 5d ago, cadence 7d |   [mitacs-accelerate] skip — checked 5d ago, cadence 7d |   [enmax-amplifier] skip — checked 12d ago, cadence 30d | RESULT: flips=0 concerns=0 primary_verified=0 skipped=13 events=0"
     },
     {
       "step": "match",
@@ -33,12 +33,12 @@
     {
       "step": "alerts",
       "rc": 0,
-      "note": "Beacon alerts — 13 programs · 2026-10-11 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=3 {'discovery': 3}"
+      "note": "Beacon alerts — 13 programs · 2026-10-12 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=2 {'discovery': 2}"
     },
     {
       "step": "embed",
       "rc": 0,
-      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (130899 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (111449 bytes) | RESULT: PASS"
+      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (130907 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (111457 bytes) | RESULT: PASS"
     },
     {
       "step": "check",
@@ -50,7 +50,7 @@
     "programs_total": 13,
     "checked": 0,
     "flips": 0,
-    "alerts_active": 3,
+    "alerts_active": 2,
     "discovery_candidates": 60
   },
   "schedule": "daily via .github/workflows/agent.yml (13:17 UTC); manual: python3 scripts/agent.py",
