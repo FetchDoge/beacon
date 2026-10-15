@@ -131,6 +131,8 @@ Every run writes `data/agent.json` — the run receipt (timestamps, per-step res
 
 Live and self-updating: `.github/workflows/agent.yml` runs the loop daily at 13:17 UTC and commits `data/` and `docs/` back to main.
 
+Built by Marcus Richards, directing AI coding agents.
+
 ## License
 
 MIT.
