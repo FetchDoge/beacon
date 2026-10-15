@@ -2,7 +2,7 @@
 
 **Tracks funding programs for Calgary, Alberta and Canada builders, and labels every claim with how it was verified.**
 
-[![agent](https://github.com/marsojuji-cmyk/beacon/actions/workflows/agent.yml/badge.svg)](https://github.com/marsojuji-cmyk/beacon/actions/workflows/agent.yml)
+[![agent](https://github.com/FetchDoge/beacon/actions/workflows/agent.yml/badge.svg)](https://github.com/FetchDoge/beacon/actions/workflows/agent.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](.github/workflows/agent.yml)
 
@@ -26,7 +26,7 @@ Every program carries a **claim tier**:
 ## Quickstart
 
 ```bash
-git clone https://github.com/marsojuji-cmyk/beacon && cd beacon
+git clone https://github.com/FetchDoge/beacon && cd beacon
 python3 scripts/match.py      # run funding & eligibility search
 ```
 
