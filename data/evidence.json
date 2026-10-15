@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14",
+  "generated": "2026-10-15",
   "snapshots": [
     {
       "program_id": "ai-rnd-associates",
@@ -50,28 +50,28 @@
           "fact": "Status: paused (since 2026-05-29)",
           "source_name": "Alberta Business Grants (secondary)",
           "source_url": "https://albertabusinessgrants.ca/grants/alberta-digital-traction-program-%E2%94%82alberta-innovates/",
-          "checked": "2026-09-30",
+          "checked": "2026-10-15",
           "tier": "INFERRED"
         },
         {
           "fact": "Deadline: Halted — no intake",
           "source_name": "Alberta Business Grants (secondary)",
           "source_url": "https://albertabusinessgrants.ca/grants/alberta-digital-traction-program-%E2%94%82alberta-innovates/",
-          "checked": "2026-09-30",
+          "checked": "2026-10-15",
           "tier": "INFERRED"
         },
         {
           "fact": "Amount: Up to $50,000 (non-dilutive)",
           "source_name": "Alberta Business Grants (secondary)",
           "source_url": "https://albertabusinessgrants.ca/grants/alberta-digital-traction-program-%E2%94%82alberta-innovates/",
-          "checked": "2026-09-30",
+          "checked": "2026-10-15",
           "tier": "INFERRED"
         },
         {
           "fact": "Eligibility (4 criteria listed)",
           "source_name": "Alberta Business Grants (secondary)",
           "source_url": "https://albertabusinessgrants.ca/grants/alberta-digital-traction-program-%E2%94%82alberta-innovates/",
-          "checked": "2026-09-30",
+          "checked": "2026-10-15",
           "tier": "INFERRED"
         }
       ],
