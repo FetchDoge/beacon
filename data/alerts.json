@@ -1,6 +1,16 @@
 {
-  "generated": "2026-10-15",
-  "active": [],
+  "generated": "2026-10-16",
+  "active": [
+    {
+      "id": "discovery:queue:2026-10-16",
+      "kind": "discovery",
+      "program_id": "queue",
+      "message": "1 new UNVERIFIED candidate(s) in the discovery queue — verify against a primary source before tracking.",
+      "raised": "2026-10-16",
+      "tier": "UNKNOWN",
+      "resolved": null
+    }
+  ],
   "resolved": [
     {
       "id": "discovery:queue:2026-10-08",

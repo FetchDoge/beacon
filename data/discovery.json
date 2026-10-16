@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15",
+  "generated": "2026-10-16",
   "sources_checked": 3,
   "candidates": [
     {
@@ -539,6 +539,15 @@
       "discovery_source": "Alberta.ca — Small Business Resources",
       "snippet": "igation into allegations of use of force during arrest in Sylvan Lake October 7, 2026 Funding advances primary care innovation",
       "discovered": "2026-10-08",
+      "tier": "UNKNOWN",
+      "status": "candidate"
+    },
+    {
+      "name_guess": "Alberta Advantage Immigration Program",
+      "url": "https://www.alberta.ca/index%2Ephp/alberta-advantage-immigration-program",
+      "discovery_source": "Alberta.ca — Small Business Resources",
+      "snippet": "Feature Alberta Advantage Immigration Program Eligible individuals can apply to be nominated to work and live in Alberta permanently.",
+      "discovered": "2026-10-16",
       "tier": "UNKNOWN",
       "status": "candidate"
     }
