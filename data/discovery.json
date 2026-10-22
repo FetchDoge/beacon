@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21",
+  "generated": "2026-10-22",
   "sources_checked": 3,
   "candidates": [
     {
@@ -548,6 +548,15 @@
       "discovery_source": "Alberta.ca — Small Business Resources",
       "snippet": "Feature Alberta Advantage Immigration Program Eligible individuals can apply to be nominated to work and live in Alberta permanently.",
       "discovered": "2026-10-16",
+      "tier": "UNKNOWN",
+      "status": "candidate"
+    },
+    {
+      "name_guess": "Rising Steel Costs in Canada: Tariff Relief, Funding and Tax Credit Options for Manufacturers",
+      "url": "https://www.ayming.ca/latest/expert-opinion/steel-tariff-relief-canada-manufacturers/",
+      "discovery_source": "Ayming Canada — Government Funding Programs",
+      "snippet": "_search-title\">Trending Rising Steel Costs in Canada: Tariff Relief, Funding and Tax Credit Options for Manufacturers",
+      "discovered": "2026-10-22",
       "tier": "UNKNOWN",
       "status": "candidate"
     }
