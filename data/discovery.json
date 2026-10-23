@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22",
+  "generated": "2026-10-23",
   "sources_checked": 3,
   "candidates": [
     {
@@ -557,6 +557,15 @@
       "discovery_source": "Ayming Canada — Government Funding Programs",
       "snippet": "_search-title\">Trending Rising Steel Costs in Canada: Tariff Relief, Funding and Tax Credit Options for Manufacturers",
       "discovered": "2026-10-22",
+      "tier": "UNKNOWN",
+      "status": "candidate"
+    },
+    {
+      "name_guess": "How to calculate your SR&ED tax credit: federal and Ontario rates explained",
+      "url": "https://www.ayming.ca/latest/expert-opinion/sred-tax-credit-calculation/",
+      "discovery_source": "Ayming Canada — Government Funding Programs",
+      "snippet": "_search-title\">Trending How to calculate your SR&ED tax credit: federal and Ontario rates explained",
+      "discovered": "2026-10-23",
       "tier": "UNKNOWN",
       "status": "candidate"
     }
