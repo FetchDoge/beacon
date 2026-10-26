@@ -1,14 +1,14 @@
 {
-  "run_id": "20261025T170243Z",
-  "started_utc": "2026-10-25T17:02:43.298485+00:00",
-  "finished_utc": "2026-10-25T17:02:44.175923+00:00",
+  "run_id": "20261026T191622Z",
+  "started_utc": "2026-10-26T19:16:22.132898+00:00",
+  "finished_utc": "2026-10-26T19:16:30.926325+00:00",
   "ok": true,
   "failed_steps": [],
   "steps": [
     {
       "step": "reverify",
       "rc": 0,
-      "note": "  [ieg-sred] skip — checked 4d ago, cadence 7d |   [mitacs-accelerate] skip — checked 4d ago, cadence 7d |   [enmax-amplifier] skip — checked 25d ago, cadence 30d | RESULT: flips=0 concerns=0 primary_verified=0 skipped=13 events=0"
+      "note": "  [ieg-sred] skip — checked 5d ago, cadence 7d |   [mitacs-accelerate] skip — checked 5d ago, cadence 7d |   [enmax-amplifier] skip — checked 26d ago, cadence 30d | RESULT: flips=0 concerns=0 primary_verified=0 skipped=13 events=0"
     },
     {
       "step": "match",
@@ -28,17 +28,17 @@
     {
       "step": "discover",
       "rc": 0,
-      "note": "  [Alberta.ca — Small Business Resources] fetch https://www.alberta.ca/small-business-resources… |     HTTP 200 · 0 new candidate(s) | Wrote /home/runner/work/beacon/beacon/data/discovery.json | RESULT: PASS · sources=3 new_candidates=0 total_candidates=63"
+      "note": "  [Alberta.ca — Small Business Resources] fetch https://www.alberta.ca/small-business-resources… |     HTTP 200 · 0 new candidate(s) | Wrote /home/runner/work/beacon/beacon/data/discovery.json | RESULT: PASS · sources=3 new_candidates=1 total_candidates=64"
     },
     {
       "step": "alerts",
       "rc": 0,
-      "note": "Beacon alerts — 13 programs · 2026-10-25 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=2 {'discovery': 2}"
+      "note": "Beacon alerts — 13 programs · 2026-10-26 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=1 active=3 {'discovery': 3} |   NEW [discovery] queue: 1 new UNVERIFIED candidate(s) in the discovery queue — verify against a primary source bef"
     },
     {
       "step": "embed",
       "rc": 0,
-      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (135177 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (115727 bytes) | RESULT: PASS"
+      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (136367 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (116917 bytes) | RESULT: PASS"
     },
     {
       "step": "check",
@@ -50,8 +50,8 @@
     "programs_total": 13,
     "checked": 0,
     "flips": 0,
-    "alerts_active": 2,
-    "discovery_candidates": 63
+    "alerts_active": 3,
+    "discovery_candidates": 64
   },
   "schedule": "daily via .github/workflows/agent.yml (13:17 UTC); manual: python3 scripts/agent.py",
   "note": "Autonomous loop receipt. reverify respects per-program check_cadence_days; flips and alert crossings are appended to data/ledger.jsonl with evidence."

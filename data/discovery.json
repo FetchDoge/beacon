@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25",
+  "generated": "2026-10-26",
   "sources_checked": 3,
   "candidates": [
     {
@@ -566,6 +566,15 @@
       "discovery_source": "Ayming Canada — Government Funding Programs",
       "snippet": "_search-title\">Trending How to calculate your SR&ED tax credit: federal and Ontario rates explained",
       "discovered": "2026-10-23",
+      "tier": "UNKNOWN",
+      "status": "candidate"
+    },
+    {
+      "name_guess": "Ontario Made Manufacturing Investment Tax Credit",
+      "url": "https://www.ayming.ca/investment-tax-credits/investment-tax-credits-funding/ontario-made-manufacturing-investment-tax-credit/",
+      "discovery_source": "Ayming Canada — Government Funding Programs",
+      "snippet": "ary\" href=\"https://www.ayming.ca/investment-tax-credits/manitoba-manufacturing-investment-tax-credit/\">Manitoba Manufacturing Investment Tax Credit Ontario Made Manufacturing Investment Tax Credit",
+      "discovered": "2026-10-26",
       "tier": "UNKNOWN",
       "status": "candidate"
     }
