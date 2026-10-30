@@ -1,14 +1,14 @@
 {
-  "run_id": "20261029T185700Z",
-  "started_utc": "2026-10-29T18:57:00.833399+00:00",
-  "finished_utc": "2026-10-29T18:57:08.404732+00:00",
+  "run_id": "20261030T183534Z",
+  "started_utc": "2026-10-30T18:35:34.852139+00:00",
+  "finished_utc": "2026-10-30T18:35:36.001940+00:00",
   "ok": true,
   "failed_steps": [],
   "steps": [
     {
       "step": "reverify",
       "rc": 0,
-      "note": "  [mitacs-accelerate] skip — checked 1d ago, cadence 7d |   [enmax-amplifier] skip — checked 29d ago, cadence 30d | Wrote /home/runner/work/beacon/beacon/data/programs.json | RESULT: flips=0 concerns=0 primary_verified=0 skipped=10 events=0"
+      "note": "  [enmax-amplifier] fetch https://www.youtube.com/watch?v=ynMktBfqoyY… |     ok HTTP 200 · HTTP 200 (no status keyword — keep current) · checked=2026-10-30 tier=INFERRED | Wrote /home/runner/work/beacon/beacon/data/programs.json | RESULT: flips=0 concerns=0 primary_verified=0 skipped=12 events=0"
     },
     {
       "step": "match",
@@ -33,24 +33,24 @@
     {
       "step": "alerts",
       "rc": 0,
-      "note": "Beacon alerts — 13 programs · 2026-10-29 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=3 {'discovery': 2, 'status_flip': 1}"
+      "note": "Beacon alerts — 13 programs · 2026-10-30 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=2 {'discovery': 1, 'status_flip': 1}"
     },
     {
       "step": "embed",
       "rc": 0,
-      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (138510 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (119060 bytes) | RESULT: PASS"
+      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (138352 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (118902 bytes) | RESULT: PASS"
     },
     {
       "step": "check",
       "rc": 0,
-      "note": "Beacon check — 13 programs, generated 2026-10-29 | Status: closed=1, open=11, paused=1 | RESULT: PASS"
+      "note": "Beacon check — 13 programs, generated 2026-10-30 | Status: closed=1, open=11, paused=1 | RESULT: PASS"
     }
   ],
   "summary": {
     "programs_total": 13,
-    "checked": 3,
+    "checked": 1,
     "flips": 0,
-    "alerts_active": 3,
+    "alerts_active": 2,
     "discovery_candidates": 64
   },
   "schedule": "daily via .github/workflows/agent.yml (13:17 UTC); manual: python3 scripts/agent.py",

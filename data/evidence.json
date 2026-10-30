@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29",
+  "generated": "2026-10-30",
   "snapshots": [
     {
       "program_id": "ai-rnd-associates",
@@ -537,28 +537,28 @@
           "fact": "Status: closed (since 2026 (awarded))",
           "source_name": "Calgary Chamber via YouTube (secondary)",
           "source_url": "https://www.youtube.com/watch?v=ynMktBfqoyY",
-          "checked": "2026-09-30",
+          "checked": "2026-10-30",
           "tier": "INFERRED"
         },
         {
           "fact": "Deadline: 2026 awarded (Gradient Thermal) — watch for next cycle",
           "source_name": "Calgary Chamber via YouTube (secondary)",
           "source_url": "https://www.youtube.com/watch?v=ynMktBfqoyY",
-          "checked": "2026-09-30",
+          "checked": "2026-10-30",
           "tier": "INFERRED"
         },
         {
           "fact": "Amount: $25,000 (annual award)",
           "source_name": "Calgary Chamber via YouTube (secondary)",
           "source_url": "https://www.youtube.com/watch?v=ynMktBfqoyY",
-          "checked": "2026-09-30",
+          "checked": "2026-10-30",
           "tier": "INFERRED"
         },
         {
           "fact": "Eligibility (2 criteria listed)",
           "source_name": "Calgary Chamber via YouTube (secondary)",
           "source_url": "https://www.youtube.com/watch?v=ynMktBfqoyY",
-          "checked": "2026-09-30",
+          "checked": "2026-10-30",
           "tier": "INFERRED"
         }
       ],
