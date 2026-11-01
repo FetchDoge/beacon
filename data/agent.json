@@ -1,14 +1,14 @@
 {
-  "run_id": "20261031T174227Z",
-  "started_utc": "2026-10-31T17:42:27.241503+00:00",
-  "finished_utc": "2026-10-31T17:42:28.455151+00:00",
+  "run_id": "20261101T182437Z",
+  "started_utc": "2026-11-01T18:24:37.899948+00:00",
+  "finished_utc": "2026-11-01T18:24:38.953372+00:00",
   "ok": true,
   "failed_steps": [],
   "steps": [
     {
       "step": "reverify",
       "rc": 0,
-      "note": "  [ieg-sred] skip — checked 3d ago, cadence 7d |   [mitacs-accelerate] skip — checked 3d ago, cadence 7d |   [enmax-amplifier] skip — checked 1d ago, cadence 30d | RESULT: flips=0 concerns=0 primary_verified=0 skipped=13 events=0"
+      "note": "  [ieg-sred] skip — checked 4d ago, cadence 7d |   [mitacs-accelerate] skip — checked 4d ago, cadence 7d |   [enmax-amplifier] skip — checked 2d ago, cadence 30d | RESULT: flips=0 concerns=0 primary_verified=0 skipped=13 events=0"
     },
     {
       "step": "match",
@@ -33,12 +33,12 @@
     {
       "step": "alerts",
       "rc": 0,
-      "note": "Beacon alerts — 13 programs · 2026-10-31 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=2 {'discovery': 1, 'status_flip': 1}"
+      "note": "Beacon alerts — 13 programs · 2026-11-01 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=2 {'discovery': 1, 'status_flip': 1}"
     },
     {
       "step": "embed",
       "rc": 0,
-      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (138408 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (118958 bytes) | RESULT: PASS"
+      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (138341 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (118891 bytes) | RESULT: PASS"
     },
     {
       "step": "check",
