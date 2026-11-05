@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04",
+  "generated": "2026-11-05",
   "snapshots": [
     {
       "program_id": "ai-rnd-associates",
@@ -191,28 +191,28 @@
           "fact": "Status: open (since 2026-08-31)",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-10-29",
+          "checked": "2026-11-05",
           "tier": "INFERRED"
         },
         {
           "fact": "Deadline: Open — new portal",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-10-29",
+          "checked": "2026-11-05",
           "tier": "INFERRED"
         },
         {
           "fact": "Amount: IP strategy funding (streams vary)",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-10-29",
+          "checked": "2026-11-05",
           "tier": "INFERRED"
         },
         {
           "fact": "Eligibility (2 criteria listed)",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-10-29",
+          "checked": "2026-11-05",
           "tier": "INFERRED"
         }
       ],
@@ -351,6 +351,12 @@
           "event": "Re-check concern: fetch_failed: URLError: <urlopen error _ssl.c:993: The handshake operation timed out> (status held at open)",
           "tier": "INFERRED",
           "evidence_url": "https://www.northernarc.ca/pdfs/ai-for-all-sector-briefing.pdf"
+        },
+        {
+          "date": "2026-11-05",
+          "event": "Re-check concern: fetch_failed: URLError: <urlopen error timed out> (status held at open)",
+          "tier": "INFERRED",
+          "evidence_url": "https://www.northernarc.ca/pdfs/ai-for-all-sector-briefing.pdf"
         }
       ],
       "unknown": [
@@ -442,6 +448,12 @@
       "history": [
         {
           "date": "2026-11-04",
+          "event": "Re-check concern: fetch_failed: URLError: <urlopen error timed out> (status held at open)",
+          "tier": "INFERRED",
+          "evidence_url": "https://imfounder.com/entrepreneurship/grants-for-ai-companies-canada/"
+        },
+        {
+          "date": "2026-11-05",
           "event": "Re-check concern: fetch_failed: URLError: <urlopen error timed out> (status held at open)",
           "tier": "INFERRED",
           "evidence_url": "https://imfounder.com/entrepreneurship/grants-for-ai-companies-canada/"

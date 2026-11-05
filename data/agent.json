@@ -1,14 +1,14 @@
 {
-  "run_id": "20261104T202436Z",
-  "started_utc": "2026-11-04T20:24:36.245670+00:00",
-  "finished_utc": "2026-11-04T20:25:00.850363+00:00",
+  "run_id": "20261105T203843Z",
+  "started_utc": "2026-11-05T20:38:43.550352+00:00",
+  "finished_utc": "2026-11-05T20:39:26.069919+00:00",
   "ok": true,
   "failed_steps": [],
   "steps": [
     {
       "step": "reverify",
       "rc": 0,
-      "note": "    ok HTTP 200 · HTTP 200 (no status keyword — keep current) · checked=2026-11-04 tier=INFERRED |   [enmax-amplifier] skip — checked 5d ago, cadence 30d | Wrote /home/runner/work/beacon/beacon/data/programs.json | RESULT: flips=0 concerns=1 primary_verified=1 skipped=5 events=1"
+      "note": "  [mitacs-accelerate] skip — checked 1d ago, cadence 7d |   [enmax-amplifier] skip — checked 6d ago, cadence 30d | Wrote /home/runner/work/beacon/beacon/data/programs.json | RESULT: flips=0 concerns=2 primary_verified=0 skipped=10 events=2"
     },
     {
       "step": "match",
@@ -23,7 +23,7 @@
     {
       "step": "evidence",
       "rc": 0,
-      "note": "Wrote /home/runner/work/beacon/beacon/data/evidence.json: 13 snapshots, 52 facts, 7 history events | RESULT: PASS"
+      "note": "Wrote /home/runner/work/beacon/beacon/data/evidence.json: 13 snapshots, 52 facts, 9 history events | RESULT: PASS"
     },
     {
       "step": "discover",
@@ -33,22 +33,22 @@
     {
       "step": "alerts",
       "rc": 0,
-      "note": "Beacon alerts — 13 programs · 2026-11-04 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=1 {'status_flip': 1}"
+      "note": "Beacon alerts — 13 programs · 2026-11-05 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=1 {'status_flip': 1}"
     },
     {
       "step": "embed",
       "rc": 0,
-      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (138810 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (119360 bytes) | RESULT: PASS"
+      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (139952 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (120502 bytes) | RESULT: PASS"
     },
     {
       "step": "check",
       "rc": 0,
-      "note": "Beacon check — 13 programs, generated 2026-11-04 | Status: closed=1, open=11, paused=1 | RESULT: PASS"
+      "note": "Beacon check — 13 programs, generated 2026-11-05 | Status: closed=1, open=11, paused=1 | RESULT: PASS"
     }
   ],
   "summary": {
     "programs_total": 13,
-    "checked": 7,
+    "checked": 1,
     "flips": 0,
     "alerts_active": 1,
     "discovery_candidates": 64
