@@ -1,14 +1,14 @@
 {
-  "run_id": "20261105T203843Z",
-  "started_utc": "2026-11-05T20:38:43.550352+00:00",
-  "finished_utc": "2026-11-05T20:39:26.069919+00:00",
+  "run_id": "20261106T195635Z",
+  "started_utc": "2026-11-06T19:56:35.381167+00:00",
+  "finished_utc": "2026-11-06T19:56:37.048440+00:00",
   "ok": true,
   "failed_steps": [],
   "steps": [
     {
       "step": "reverify",
       "rc": 0,
-      "note": "  [mitacs-accelerate] skip — checked 1d ago, cadence 7d |   [enmax-amplifier] skip — checked 6d ago, cadence 30d | Wrote /home/runner/work/beacon/beacon/data/programs.json | RESULT: flips=0 concerns=2 primary_verified=0 skipped=10 events=2"
+      "note": "  [mitacs-accelerate] skip — checked 2d ago, cadence 7d |   [enmax-amplifier] skip — checked 7d ago, cadence 30d | Wrote /home/runner/work/beacon/beacon/data/programs.json | RESULT: flips=0 concerns=0 primary_verified=0 skipped=11 events=0"
     },
     {
       "step": "match",
@@ -33,22 +33,22 @@
     {
       "step": "alerts",
       "rc": 0,
-      "note": "Beacon alerts — 13 programs · 2026-11-05 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=1 {'status_flip': 1}"
+      "note": "Beacon alerts — 13 programs · 2026-11-06 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=1 {'status_flip': 1}"
     },
     {
       "step": "embed",
       "rc": 0,
-      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (139952 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (120502 bytes) | RESULT: PASS"
+      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (139912 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (120462 bytes) | RESULT: PASS"
     },
     {
       "step": "check",
       "rc": 0,
-      "note": "Beacon check — 13 programs, generated 2026-11-05 | Status: closed=1, open=11, paused=1 | RESULT: PASS"
+      "note": "Beacon check — 13 programs, generated 2026-11-06 | Status: closed=1, open=11, paused=1 | RESULT: PASS"
     }
   ],
   "summary": {
     "programs_total": 13,
-    "checked": 1,
+    "checked": 2,
     "flips": 0,
     "alerts_active": 1,
     "discovery_candidates": 64
