@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-07",
   "sources_checked": 3,
   "candidates": [
     {
@@ -575,6 +575,15 @@
       "discovery_source": "Ayming Canada — Government Funding Programs",
       "snippet": "ary\" href=\"https://www.ayming.ca/investment-tax-credits/manitoba-manufacturing-investment-tax-credit/\">Manitoba Manufacturing Investment Tax Credit Ontario Made Manufacturing Investment Tax Credit",
       "discovered": "2026-10-26",
+      "tier": "UNKNOWN",
+      "status": "candidate"
+    },
+    {
+      "name_guess": "Federal Budget 2026: What It Means for Defence and National Security Funding",
+      "url": "https://www.ayming.ca/latest/expert-opinion/federal-budget-2026-defence-funding/",
+      "discovery_source": "Ayming Canada — Government Funding Programs",
+      "snippet": "_search-title\">Trending Federal Budget 2026: What It Means for Defence and National Security Funding",
+      "discovered": "2026-11-07",
       "tier": "UNKNOWN",
       "status": "candidate"
     }
