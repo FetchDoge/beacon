@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "sources_checked": 3,
   "candidates": [
     {
@@ -584,6 +584,15 @@
       "discovery_source": "Ayming Canada — Government Funding Programs",
       "snippet": "_search-title\">Trending Federal Budget 2026: What It Means for Defence and National Security Funding",
       "discovered": "2026-11-07",
+      "tier": "UNKNOWN",
+      "status": "candidate"
+    },
+    {
+      "name_guess": "Defence funding checklist",
+      "url": "https://www.ayming.ca/latest/whitepapers/defence-funding-checklist/",
+      "discovery_source": "Ayming Canada — Government Funding Programs",
+      "snippet": "h-title\">Trending Defence funding checklist <div class=\"wp-component-card-insights__",
+      "discovered": "2026-11-10",
       "tier": "UNKNOWN",
       "status": "candidate"
     }
