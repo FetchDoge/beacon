@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11",
+  "generated": "2026-11-12",
   "snapshots": [
     {
       "program_id": "ai-rnd-associates",
@@ -50,28 +50,28 @@
           "fact": "Status: paused (since 2026-05-29)",
           "source_name": "Alberta Business Grants (secondary)",
           "source_url": "https://albertabusinessgrants.ca/grants/alberta-digital-traction-program-%E2%94%82alberta-innovates/",
-          "checked": "2026-10-29",
+          "checked": "2026-11-12",
           "tier": "INFERRED"
         },
         {
           "fact": "Deadline: Halted — no intake",
           "source_name": "Alberta Business Grants (secondary)",
           "source_url": "https://albertabusinessgrants.ca/grants/alberta-digital-traction-program-%E2%94%82alberta-innovates/",
-          "checked": "2026-10-29",
+          "checked": "2026-11-12",
           "tier": "INFERRED"
         },
         {
           "fact": "Amount: Up to $50,000 (non-dilutive)",
           "source_name": "Alberta Business Grants (secondary)",
           "source_url": "https://albertabusinessgrants.ca/grants/alberta-digital-traction-program-%E2%94%82alberta-innovates/",
-          "checked": "2026-10-29",
+          "checked": "2026-11-12",
           "tier": "INFERRED"
         },
         {
           "fact": "Eligibility (4 criteria listed)",
           "source_name": "Alberta Business Grants (secondary)",
           "source_url": "https://albertabusinessgrants.ca/grants/alberta-digital-traction-program-%E2%94%82alberta-innovates/",
-          "checked": "2026-10-29",
+          "checked": "2026-11-12",
           "tier": "INFERRED"
         }
       ],
@@ -191,28 +191,28 @@
           "fact": "Status: open (since 2026-08-31)",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-11-05",
+          "checked": "2026-11-12",
           "tier": "INFERRED"
         },
         {
           "fact": "Deadline: Open — new portal",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-11-05",
+          "checked": "2026-11-12",
           "tier": "INFERRED"
         },
         {
           "fact": "Amount: IP strategy funding (streams vary)",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-11-05",
+          "checked": "2026-11-12",
           "tier": "INFERRED"
         },
         {
           "fact": "Eligibility (2 criteria listed)",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-11-05",
+          "checked": "2026-11-12",
           "tier": "INFERRED"
         }
       ],
