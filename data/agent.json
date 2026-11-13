@@ -1,14 +1,14 @@
 {
-  "run_id": "20261112T204746Z",
-  "started_utc": "2026-11-12T20:47:46.614631+00:00",
-  "finished_utc": "2026-11-12T20:47:49.176301+00:00",
+  "run_id": "20261113T202822Z",
+  "started_utc": "2026-11-13T20:28:22.671384+00:00",
+  "finished_utc": "2026-11-13T20:28:28.674457+00:00",
   "ok": true,
   "failed_steps": [],
   "steps": [
     {
       "step": "reverify",
       "rc": 0,
-      "note": "  [mitacs-accelerate] skip — checked 1d ago, cadence 7d |   [enmax-amplifier] skip — checked 13d ago, cadence 30d | Wrote /home/runner/work/beacon/beacon/data/programs.json | RESULT: flips=0 concerns=0 primary_verified=0 skipped=11 events=0"
+      "note": "  [mitacs-accelerate] skip — checked 2d ago, cadence 7d |   [enmax-amplifier] skip — checked 14d ago, cadence 30d | Wrote /home/runner/work/beacon/beacon/data/programs.json | RESULT: flips=0 concerns=0 primary_verified=0 skipped=11 events=0"
     },
     {
       "step": "match",
@@ -33,17 +33,17 @@
     {
       "step": "alerts",
       "rc": 0,
-      "note": "Beacon alerts — 13 programs · 2026-11-12 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=2 {'discovery': 2}"
+      "note": "Beacon alerts — 13 programs · 2026-11-13 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=2 {'discovery': 2}"
     },
     {
       "step": "embed",
       "rc": 0,
-      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (142030 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (122580 bytes) | RESULT: PASS"
+      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (141990 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (122540 bytes) | RESULT: PASS"
     },
     {
       "step": "check",
       "rc": 0,
-      "note": "Beacon check — 13 programs, generated 2026-11-12 | Status: closed=1, open=11, paused=1 | RESULT: PASS"
+      "note": "Beacon check — 13 programs, generated 2026-11-13 | Status: closed=1, open=11, paused=1 | RESULT: PASS"
     }
   ],
   "summary": {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-13",
   "snapshots": [
     {
       "program_id": "ai-rnd-associates",
@@ -320,28 +320,28 @@
           "fact": "Status: open (since 2026 (expanded))",
           "source_name": "Northern Arc sector briefing (secondary)",
           "source_url": "https://www.northernarc.ca/pdfs/ai-for-all-sector-briefing.pdf",
-          "checked": "2026-11-06",
+          "checked": "2026-11-13",
           "tier": "INFERRED"
         },
         {
           "fact": "Deadline: Ongoing",
           "source_name": "Northern Arc sector briefing (secondary)",
           "source_url": "https://www.northernarc.ca/pdfs/ai-for-all-sector-briefing.pdf",
-          "checked": "2026-11-06",
+          "checked": "2026-11-13",
           "tier": "INFERRED"
         },
         {
           "fact": "Amount: Compute credits (variable)",
           "source_name": "Northern Arc sector briefing (secondary)",
           "source_url": "https://www.northernarc.ca/pdfs/ai-for-all-sector-briefing.pdf",
-          "checked": "2026-11-06",
+          "checked": "2026-11-13",
           "tier": "INFERRED"
         },
         {
           "fact": "Eligibility (2 criteria listed)",
           "source_name": "Northern Arc sector briefing (secondary)",
           "source_url": "https://www.northernarc.ca/pdfs/ai-for-all-sector-briefing.pdf",
-          "checked": "2026-11-06",
+          "checked": "2026-11-13",
           "tier": "INFERRED"
         }
       ],
@@ -420,28 +420,28 @@
           "fact": "Status: open (since 2026)",
           "source_name": "IMFounder guide (secondary)",
           "source_url": "https://imfounder.com/entrepreneurship/grants-for-ai-companies-canada/",
-          "checked": "2026-11-06",
+          "checked": "2026-11-13",
           "tier": "INFERRED"
         },
         {
           "fact": "Deadline: To Dec 31, 2028",
           "source_name": "IMFounder guide (secondary)",
           "source_url": "https://imfounder.com/entrepreneurship/grants-for-ai-companies-canada/",
-          "checked": "2026-11-06",
+          "checked": "2026-11-13",
           "tier": "INFERRED"
         },
         {
           "fact": "Amount: $250K – $5M (repayable, interest-free)",
           "source_name": "IMFounder guide (secondary)",
           "source_url": "https://imfounder.com/entrepreneurship/grants-for-ai-companies-canada/",
-          "checked": "2026-11-06",
+          "checked": "2026-11-13",
           "tier": "INFERRED"
         },
         {
           "fact": "Eligibility (3 criteria listed)",
           "source_name": "IMFounder guide (secondary)",
           "source_url": "https://imfounder.com/entrepreneurship/grants-for-ai-companies-canada/",
-          "checked": "2026-11-06",
+          "checked": "2026-11-13",
           "tier": "INFERRED"
         }
       ],
