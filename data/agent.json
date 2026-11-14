@@ -1,14 +1,14 @@
 {
-  "run_id": "20261113T202822Z",
-  "started_utc": "2026-11-13T20:28:22.671384+00:00",
-  "finished_utc": "2026-11-13T20:28:28.674457+00:00",
+  "run_id": "20261114T184343Z",
+  "started_utc": "2026-11-14T18:43:43.734895+00:00",
+  "finished_utc": "2026-11-14T18:43:44.750005+00:00",
   "ok": true,
   "failed_steps": [],
   "steps": [
     {
       "step": "reverify",
       "rc": 0,
-      "note": "  [mitacs-accelerate] skip — checked 2d ago, cadence 7d |   [enmax-amplifier] skip — checked 14d ago, cadence 30d | Wrote /home/runner/work/beacon/beacon/data/programs.json | RESULT: flips=0 concerns=0 primary_verified=0 skipped=11 events=0"
+      "note": "  [ieg-sred] skip — checked 3d ago, cadence 7d |   [mitacs-accelerate] skip — checked 3d ago, cadence 7d |   [enmax-amplifier] skip — checked 15d ago, cadence 30d | RESULT: flips=0 concerns=0 primary_verified=0 skipped=13 events=0"
     },
     {
       "step": "match",
@@ -33,12 +33,12 @@
     {
       "step": "alerts",
       "rc": 0,
-      "note": "Beacon alerts — 13 programs · 2026-11-13 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=2 {'discovery': 2}"
+      "note": "Beacon alerts — 13 programs · 2026-11-14 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=1 {'discovery': 1}"
     },
     {
       "step": "embed",
       "rc": 0,
-      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (141990 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (122540 bytes) | RESULT: PASS"
+      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (141998 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (122548 bytes) | RESULT: PASS"
     },
     {
       "step": "check",
@@ -48,9 +48,9 @@
   ],
   "summary": {
     "programs_total": 13,
-    "checked": 2,
+    "checked": 0,
     "flips": 0,
-    "alerts_active": 2,
+    "alerts_active": 1,
     "discovery_candidates": 66
   },
   "schedule": "daily via .github/workflows/agent.yml (13:17 UTC); manual: python3 scripts/agent.py",
