@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-16",
   "sources_checked": 3,
   "candidates": [
     {
@@ -593,6 +593,15 @@
       "discovery_source": "Ayming Canada — Government Funding Programs",
       "snippet": "h-title\">Trending Defence funding checklist <div class=\"wp-component-card-insights__",
       "discovered": "2026-11-10",
+      "tier": "UNKNOWN",
+      "status": "candidate"
+    },
+    {
+      "name_guess": "Dual-Use Technology in Canada: Funding and SR&ED for Defence Innovation",
+      "url": "https://www.ayming.ca/latest/expert-opinion/dual-use-technology-funding-canada/",
+      "discovery_source": "Ayming Canada — Government Funding Programs",
+      "snippet": "_search-title\">Trending Dual-Use Technology in Canada: Funding and SR&ED for Defence Innovation",
+      "discovered": "2026-11-16",
       "tier": "UNKNOWN",
       "status": "candidate"
     }
