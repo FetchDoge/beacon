@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "snapshots": [
     {
       "program_id": "ai-rnd-associates",
@@ -191,28 +191,28 @@
           "fact": "Status: open (since 2026-08-31)",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-11-12",
+          "checked": "2026-11-19",
           "tier": "INFERRED"
         },
         {
           "fact": "Deadline: Open — new portal",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-11-12",
+          "checked": "2026-11-19",
           "tier": "INFERRED"
         },
         {
           "fact": "Amount: IP strategy funding (streams vary)",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-11-12",
+          "checked": "2026-11-19",
           "tier": "INFERRED"
         },
         {
           "fact": "Eligibility (2 criteria listed)",
           "source_name": "Innovate Calgary via press (secondary)",
           "source_url": "https://www.europesays.com/canada/190129/",
-          "checked": "2026-11-12",
+          "checked": "2026-11-19",
           "tier": "INFERRED"
         }
       ],
