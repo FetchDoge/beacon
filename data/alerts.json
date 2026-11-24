@@ -1,6 +1,7 @@
 {
-  "generated": "2026-11-22",
-  "active": [
+  "generated": "2026-11-24",
+  "active": [],
+  "resolved": [
     {
       "id": "discovery:queue:2026-11-16",
       "kind": "discovery",
@@ -8,10 +9,8 @@
       "message": "1 new UNVERIFIED candidate(s) in the discovery queue — verify against a primary source before tracking.",
       "raised": "2026-11-16",
       "tier": "UNKNOWN",
-      "resolved": null
-    }
-  ],
-  "resolved": [
+      "resolved": "2026-11-24"
+    },
     {
       "id": "discovery:queue:2026-11-10",
       "kind": "discovery",

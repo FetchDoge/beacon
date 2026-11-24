@@ -1,14 +1,14 @@
 {
-  "run_id": "20261122T201908Z",
-  "started_utc": "2026-11-22T20:19:08.330273+00:00",
-  "finished_utc": "2026-11-22T20:19:15.919402+00:00",
+  "run_id": "20261124T004845Z",
+  "started_utc": "2026-11-24T00:48:45.775195+00:00",
+  "finished_utc": "2026-11-24T00:48:47.243974+00:00",
   "ok": true,
   "failed_steps": [],
   "steps": [
     {
       "step": "reverify",
       "rc": 0,
-      "note": "  [ieg-sred] skip — checked 4d ago, cadence 7d |   [mitacs-accelerate] skip — checked 4d ago, cadence 7d |   [enmax-amplifier] skip — checked 23d ago, cadence 30d | RESULT: flips=0 concerns=0 primary_verified=0 skipped=13 events=0"
+      "note": "  [ieg-sred] skip — checked 6d ago, cadence 7d |   [mitacs-accelerate] skip — checked 6d ago, cadence 7d |   [enmax-amplifier] skip — checked 25d ago, cadence 30d | RESULT: flips=0 concerns=0 primary_verified=0 skipped=13 events=0"
     },
     {
       "step": "match",
@@ -33,12 +33,12 @@
     {
       "step": "alerts",
       "rc": 0,
-      "note": "Beacon alerts — 13 programs · 2026-11-22 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=1 {'discovery': 1}"
+      "note": "Beacon alerts — 13 programs · 2026-11-24 | Wrote /home/runner/work/beacon/beacon/data/alerts.json | RESULT: PASS · raised=0 active=0 {}"
     },
     {
       "step": "embed",
       "rc": 0,
-      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (143060 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (123610 bytes) | RESULT: PASS"
+      "note": "Wrote /home/runner/work/beacon/beacon/docs/index.html (143066 bytes) | Wrote /home/runner/work/beacon/beacon/docs/variant-b.html (123616 bytes) | RESULT: PASS"
     },
     {
       "step": "check",
@@ -50,7 +50,7 @@
     "programs_total": 13,
     "checked": 0,
     "flips": 0,
-    "alerts_active": 1,
+    "alerts_active": 0,
     "discovery_candidates": 67
   },
   "schedule": "daily via .github/workflows/agent.yml (13:17 UTC); manual: python3 scripts/agent.py",
