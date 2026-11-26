@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25",
+  "generated": "2026-11-26",
   "sources_checked": 3,
   "candidates": [
     {
@@ -602,6 +602,24 @@
       "discovery_source": "Ayming Canada — Government Funding Programs",
       "snippet": "_search-title\">Trending Dual-Use Technology in Canada: Funding and SR&ED for Defence Innovation",
       "discovered": "2026-11-16",
+      "tier": "UNKNOWN",
+      "status": "candidate"
+    },
+    {
+      "name_guess": "Canada’s Eight Strategic Capabilities, and the Funding Programs Behind Each One",
+      "url": "https://www.ayming.ca/latest/expert-opinion/canada-strategic-capabilities-funding/",
+      "discovery_source": "Ayming Canada — Government Funding Programs",
+      "snippet": "_search-title\">Trending Canada’s Eight Strategic Capabilities, and the Funding Programs Behind Each One",
+      "discovered": "2026-11-26",
+      "tier": "UNKNOWN",
+      "status": "candidate"
+    },
+    {
+      "name_guess": "Probationary licence issued to child-care program",
+      "url": "https://www.alberta.ca/announcements.cfm?xID=98194C0476C12-E692-4A9C-282999D4D20CAF6B",
+      "discovery_source": "Alberta.ca — Small Business Resources",
+      "snippet": "-C49B-A168BDD655F2A1ED\">Enhancing emergency response across Alberta November 25, 2026 Probationary licence issued to child-care program November 25, 2026",
+      "discovered": "2026-11-26",
       "tier": "UNKNOWN",
       "status": "candidate"
     }
